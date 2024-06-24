@@ -1,4 +1,9 @@
-<h1 align="center">hey there 👋</h1>
+<h2 align="left">Hi 👋! </h2>
+
+###
+
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhwMGlkeXV5Y25seXVjZmo1OTdqeGYwdjc3bGZjbm93NmJtdGc3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wq4XuPC9gFzR6/giphy.gif"  />
 
 ###
 
@@ -14,6 +19,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c logo"  />
