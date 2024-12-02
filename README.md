@@ -12,7 +12,7 @@
 ###
 
 <p align="left">I'm Ibshar  <br>
-  from Sylhet Bangladesh<br><br>- 🔭 I’m working as a student <br>- 📚 I'm currently learning OOP</p>
+  from Sylhet Bangladesh<br><br>- 🔭 I’m working as a student <br>- 📚 I'm currently learning Flutter and OOP concepts</p>
 
 ###
 
